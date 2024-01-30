@@ -5,8 +5,8 @@ using namespace std;
 
 
 int main(){
-    //freopen("E:\\coding_practice\\newC++\\.vscode\\input.txt","r",stdin);
-    //freopen("E:\\coding_practice\\newC++\\.vscode\\output.txt","w",stdout);
+    freopen("E:\\coding_practice\\newC++\\.vscode\\input.txt","r",stdin);
+    freopen("E:\\coding_practice\\newC++\\.vscode\\output.txt","w",stdout);
     
     int t;
     cin>>t;
@@ -34,4 +34,7 @@ int main(){
      
   
 }
+
+
+   
    
